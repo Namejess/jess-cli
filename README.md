@@ -10,7 +10,7 @@ Je lui ai donc dis qu'un jour je ferai un outil CLI pour qu'il puisse vraiment m
 
 Dans mon apprentissage de Rust j'ai vu qu'il était possible de rapidement mettre en place un programme CLI grâce à Clap. En utilisant l'API de OpenAI et en appelant le modèle Davinci, le chat répond directement dans le terminal ✨✨ 
 
-<img src="https://cdn.discordapp.com/attachments/830009390089764887/1059816277646004254/image.png"  
+<img src="https://cdn.discordapp.com/attachments/830009390089764887/1059819022033621013/image.png"  
      alt="Markdown Monster icon"  
      style="float: left; margin-right: 10px;" />
      
