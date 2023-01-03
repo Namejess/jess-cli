@@ -36,7 +36,7 @@ async fn main () -> Result < (), Box < dyn std::error::Error + Send + Sync >> {
 
     let preamble = "This is an interactive example of OpenAI's API. You can ask it questions and it will try to answer them. It's not very good yet, but it will get better over time. Try it out! Type Ctrl-D or send an empty message to quit.";
 
-    let oai_token: String = "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".to_string();
+    let oai_token: String = "YOUR-API-KEY".to_string();
     let auth_header_val = format!("Bearer {}", oai_token);
     
 
